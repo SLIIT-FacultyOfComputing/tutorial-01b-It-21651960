@@ -16,5 +16,6 @@ avg= (x+y)/2;
 printf("Average :%.2f",avg);
   
   return 0;
+  
 }
 
